@@ -10,7 +10,7 @@ This project evaluates the performance and challenges of small businesses in a N
 
 ### Methodology 
 - In this project analysis, we used Kobo Toolbox to design and distribute surveys to small business owners.
-- Sample size: A total number of 150 survey samples were collected from business owners in Nigeria; 50 in Lagos, 50 from Kano, and 50 from Port Harcourt.
+- Sample size: A total number of 166 survey samples were collected from business owners in Nigeria; 41 in Lagos, 47 from Kano, and 78 from Port Harcourt.
 - Collected structured data on key business factors, including:
 
 ### Data Storage
