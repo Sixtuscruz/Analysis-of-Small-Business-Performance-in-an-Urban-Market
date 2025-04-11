@@ -53,65 +53,33 @@ Profit margin = (Revenue - Expenses) / Revenue. Since revenue and expenses are g
   - Kano: ~20% (mixed performance).
   - Port Harcourt: ~15% (more losses in retail).
 
-#### 2. Revenue Distribution
-- *Revenue Breakdown:*
-  - <100k: 25 businesses (15%).
-  - 100k-500k: 41 (25%).
-  - 500k-1M: 38 (23%).
-  - >1M: 62 (37%).
-- *By Location:*
-  - Lagos: 41% >1M (highest revenue concentration).
-  - Kano: 34% >1M, 24% <100k (polarized).
-  - Port Harcourt: 35% >1M, 19% <100k.
-
-#### 3. Expense Distribution
+#### 2. Expense Distribution
 - *Expense Breakdown:*
-  - <50k: 47 (28%).
-  - 50k-300k: 47 (28%).
-  - 300k-700k: 35 (21%).
+  - <50k: 52 (31%).
+  - 50k-300k: 48 (29%).
+  - 300k-700k: 29 (17%).
   - >700k: 37 (22%).
 - *Top Expenses (Frequency):*
-  - Rent: 137 (82%).
-  - Salaries: 102 (61%).
-  - Marketing: 92 (55%).
-  - Power Supply: 88 (53%).
-  - Inventory: 34 (20%).
-  - Others: 11 (7%, e.g., food, feeding, shortage of workers).
+  - Rent: 111 (66%).
+  - Salaries: 112 (67%).
+  - Marketing: 108 (65%).
+  - Power Supply: 124 (74%).
+  - Inventory: 33 (19%).
+  - Others: 12 (7%, e.g., food, feeding, shortage of workers).
 
-### Step 3: Common Challenges
+#### 3. Common Challenges
 - *Challenge Frequency:*
-  - Power Supply Issues: 149 (90%) – most pervasive.
-  - High Rent Costs: 54 (33%).
-  - Competition: 47 (28%).
-  - Access to Credit: 34 (20%).
-  - High Taxes: 31 (19%).
+  - Power Supply Issues: 139 (83%) – most pervasive.
+  - High Rent Costs: 63 (37%).
+  - Competition: 55 (33%).
+  - Access to Credit: 35 (21%).
+  - High Taxes: 33 (19%).
 - *By Location:*
-  - Lagos: Power (91%), Rent (35%), Competition (19%).
-  - Kano: Power (87%), Competition (34%), Rent (29%).
-  - Port Harcourt: Power (90%), Rent (32%), Access to Credit (24%).
+  - Lagos: Power (92.7%), Rent (46.3%), Competition (19.5%).
+  - Kano: Power (83%), Competition (36.2%), Rent (38.3%).
+  - Port Harcourt: Power (79.5%), Rent (33.3%), Access to Credit (25.6%).
 
-### Step 4: Customer Demographics
-- *Age Groups:*
-  - 18-25: 47 (28%).
-  - 26-35: 62 (37%).
-  - 36-50: 47 (28%).
-  - 51+: 10 (6%).
-- *Gender:*
-  - Balanced: 121 (73%).
-  - Mostly Male: 28 (17%).
-  - Mostly Female: 17 (10%).
-- *Purchase Frequency:*
-  - Daily: 92 (55%).
-  - Weekly: 35 (21%).
-  - Occasionally: 31 (19%).
-  - Monthly: 8 (5%).
-- *Occupation:*
-  - Self-Employed: 62 (37%).
-  - Salaried Worker: 38 (23%).
-  - Student: 47 (28%).
-  - Retired: 19 (11%).
-
-### Step 5: Analysis by Business Type and Location
+### Analysis by Business Type and Location
 - *Retail:*
   - Revenue: Often <500k (54%), struggles with profitability.
   - Challenges: Power (91%), Rent (41%).
