@@ -78,6 +78,12 @@ Profit margin = (Revenue - Expenses) / Revenue. Since revenue and expenses are g
   - Lagos: Power (92.7%), Rent (46.3%), Competition (19.5%).
   - Kano: Power (83%), Competition (36.2%), Rent (38.3%).
   - Port Harcourt: Power (79.5%), Rent (33.3%), Access to Credit (25.6%).
+ 
+#### 4. Growth Rate by business location
+- *Breakdown:*
+  - Lagos: 41 (1,926,500,000).
+  - Kano: 47 (2,490,500,000).
+  - Port Harcourt: 78 (3,977,000,000).
 
 ### Analysis by Business Type and Location
 - *Retail:*
