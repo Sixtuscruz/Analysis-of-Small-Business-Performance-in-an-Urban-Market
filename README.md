@@ -43,6 +43,17 @@ Profit margin = (Revenue - Expenses) / Revenue. Since revenue and expenses are g
 - Business 1 (Retail, Lagos): Revenue = 300k, Expenses = 500k → Profit = 300k - 500k = -200k, Margin = -66.7% (loss).
 - Business 4 (Manufacturing, Lagos): Revenue = 1.5M, Expenses = 175k → Profit = 1.325M, Margin = 88.3%.
 
+Findings: 
+*Profit margin by business type*
+- Manufacturing (31.9%).
+- Retail (27.7%).
+- Services (18.94%).
+
+*Profit margin by business location*
+- Kano (23.13%).
+- Lagos (19.89%).
+- Port Harcourt (35.52%).
+
 #### 2. Expense Distribution
 - *Expense Breakdown:*
   - <50k: 52 (31%).
