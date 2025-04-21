@@ -234,11 +234,15 @@ Findings:
 ![51Ghv--common-challenges-by-frequency-](https://github.com/user-attachments/assets/dd33ac58-0dfe-47e0-ad1a-1723a9a3f933)
 
 - *By Location:*
-  - Lagos: Power (92.7%), Rent (46.3%), Competition (19.5%).
+  - Lagos: Power (93%), Rent (46.3%), Competition (19.5%).
   - Kano: Power (83%), Competition (36.2%), Rent (38.3%).
   - Port Harcourt: Power (79.5%), Rent (33.3%), Access to Credit (25.6%).
  
-#### 4. Growth Rate by business location
+   - [See interactive dashboard here](https://datawrapper.dwcdn.net/48GFE/2/)
+ 
+    ![48GFE-common-challenges-by-location-nbsp-](https://github.com/user-attachments/assets/ade9be3c-481c-4a97-a776-6d2630d772d4)
+
+ #### 4. Growth Rate by business location
 - *Breakdown:*
   - Lagos: 41 (1,926,500,000).
   - Kano: 47 (2,490,500,000).
