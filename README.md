@@ -229,6 +229,10 @@ Findings:
   - Competition: 55 (33%).
   - Access to Credit: 35 (21%).
   - High Taxes: 33 (19%).
+     - [See interactive dashboard here](https://datawrapper.dwcdn.net/51Ghv/1/)
+
+![51Ghv--common-challenges-by-frequency-](https://github.com/user-attachments/assets/dd33ac58-0dfe-47e0-ad1a-1723a9a3f933)
+
 - *By Location:*
   - Lagos: Power (92.7%), Rent (46.3%), Competition (19.5%).
   - Kano: Power (83%), Competition (36.2%), Rent (38.3%).
@@ -240,6 +244,9 @@ Findings:
   - Kano: 47 (2,490,500,000).
   - Port Harcourt: 78 (3,977,000,000).
 
+![Growth rate by business location](https://github.com/user-attachments/assets/e589d2c6-7b46-4be9-9dc3-a18fa5fe67ee)
+
+  
 ### Analysis by Business Type and Location
 - *Retail:*
   - Revenue: Often <500k (54%), struggles with profitability.
@@ -253,6 +260,9 @@ Findings:
   - Revenue: Mixed (500k-1M, 35%), moderate margins.
   - Challenges: Power (86%), Rent (28%).
   - Customers: Balanced age, daily purchases (58%).
+
+![growth rate by business type](https://github.com/user-attachments/assets/fe2002af-cb35-4907-ac69-0764aa862e96)
+
 
 - *Lagos:*
   - High revenue (41% >1M), manufacturing-driven.
