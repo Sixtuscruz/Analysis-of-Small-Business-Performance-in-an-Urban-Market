@@ -50,6 +50,7 @@ EDA inludes exploring business performances questions, such as;
 - What is the gender distribution of your customers?
 - How often do your customers make purchases?
 - What is the occupation of your customers?
+  - [Download/view questionnaire here](https://ee.kobotoolbox.org/x/p8U5mTxr)
 
 #### Querying Dataset on MySQL
 
@@ -234,9 +235,9 @@ Findings:
 ![51Ghv--common-challenges-by-frequency-](https://github.com/user-attachments/assets/dd33ac58-0dfe-47e0-ad1a-1723a9a3f933)
 
 - *By Location:*
-  - Lagos: Power (93%), Rent (46.3%), Competition (19.5%).
-  - Kano: Power (83%), Competition (36.2%), Rent (38.3%).
-  - Port Harcourt: Power (79.5%), Rent (33.3%), Access to Credit (25.6%).
+  - Lagos: Power (93%), Rent (46%), Competition (20%), Access to credit (17%).
+  - Kano: Power (83%), Competition (36%), Rent (38%), Access to credit (17%).
+  - Port Harcourt: Power (79%), Rent (33%), Competition (38%), Access to Credit (26%).
  
    - [See interactive dashboard here](https://datawrapper.dwcdn.net/48GFE/2/)
  
@@ -294,6 +295,23 @@ Findings:
    - [download interactive dashboard here](https://datawrapper.dwcdn.net/5Rx2L/2)
 
   ![5Rx2L-business-performance-metrics](https://github.com/user-attachments/assets/c8269a6b-354a-4ad0-8e2c-32a6fefb7bc5)
+
+### Insights and Recommendations
+
+1. *Infrastructure (Power Supply):*
+   - 90% of businesses face power issues, especially manufacturing (high revenue potential). Recommendation: Government or private investment in reliable power solutions (e.g., solar subsidies).
+2. *Cost Management (Rent):*
+   - Rent is a top expense (82%) and challenge (33%). Recommendation: Shared workspaces or rent subsidies for small businesses.
+3. *Access to Funding:*
+   - 20% struggle with credit, notably in Port Harcourt. Recommendation: Microfinance programs targeting retail and services.
+4. *Market Competition:*
+   - 28% face competition, especially in Kano. Recommendation: Business training on differentiation (e.g., niche marketing).
+5. *Customer Targeting:*
+   - Retail thrives on daily purchases from younger customers (18-35). Recommendation: Digital marketing to boost visibility.
+
+### Outcome
+This analysis highlights that while manufacturing in Lagos shows strong performance, retail and services in all cities face profitability challenges due to power and rent costs. Addressing infrastructure and funding gaps could unlock growth, particularly for retail and services catering to daily customer needs.
+
 
 
 
