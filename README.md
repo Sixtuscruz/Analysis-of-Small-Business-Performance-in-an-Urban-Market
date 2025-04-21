@@ -23,7 +23,7 @@ This project evaluates the performance and challenges of small businesses in a N
 
 - Excel: Remove duplicates, handle missing values, and normalize data.
 
-[See Excel Data analysis here](https://github.com/user-attachments/files/19836300/Analysis_of_Small_Business_Performance_in_an_Urban_Market_-_all_versions_-_False_-_2025-03-27-23-07-13.xlsx)
+  - [See Excel Data analysis here](https://github.com/user-attachments/files/19836300/Analysis_of_Small_Business_Performance_in_an_Urban_Market_-_all_versions_-_False_-_2025-03-27-23-07-13.xlsx)
 
 - SQL: Create tables and queries to filter, aggregate, and sort data.
 - Data Transformation: Convert categorical responses into numerical values where needed for better analysis.
