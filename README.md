@@ -17,11 +17,13 @@ This project evaluates the performance and challenges of small businesses in a N
 ### Data Storage
 
 - Store responses in SQL database for structured querying.
-- Export data to Excel for Preliminary analysis.
+- Export data to Excel from MySQl for Preliminary analysis.
 
 ## Data Cleaning & Processing
 
 - Excel: Remove duplicates, handle missing values, and normalize data.
+  - [see the cleaned dataset here](https://github.com/"C:\Users\Sixtus\Downloads\Analysis_of_Small_Business_Performance_in_an_Urban_Market_-_all_versions_-_False_-_2025-03-27-23-07-13.xlsx")
+ 
 - SQL: Create tables and queries to filter, aggregate, and sort data.
 - Data Transformation: Convert categorical responses into numerical values where needed for better analysis.
 
@@ -118,6 +120,13 @@ Findings:
   - Lagos: ~30% (driven by high-revenue manufacturing).
   - Kano: ~20% (mixed performance).
   - Port Harcourt: ~15% (more losses in retail).
+
+### Data Visualization
+- Here i'm going to use Datawrapper for visualization to create interactive dashboards.
+- This visualization will use a clustered column to visualize business performance metrics, such as revenue trends, expense breakdowns, and challenge distributions.
+  
+
+
 
 
 
