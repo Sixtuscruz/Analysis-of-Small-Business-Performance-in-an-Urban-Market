@@ -239,7 +239,7 @@ Findings:
   - Kano: Power (83%), Competition (36%), Rent (38%), Access to credit (17%).
   - Port Harcourt: Power (79%), Rent (33%), Competition (38%), Access to Credit (26%).
  
-   - [See interactive dashboard here](https://datawrapper.dwcdn.net/48GFE/2/)
+    - [See interactive dashboard here](https://datawrapper.dwcdn.net/48GFE/2/)
  
     ![48GFE-common-challenges-by-location-nbsp-](https://github.com/user-attachments/assets/ade9be3c-481c-4a97-a776-6d2630d772d4)
 
@@ -266,7 +266,7 @@ Findings:
   - Challenges: Power (86%), Rent (28%).
   - Customers: Balanced age, daily purchases (58%).
 
-![growth rate by business type](https://github.com/user-attachments/assets/fe2002af-cb35-4907-ac69-0764aa862e96)
+    -![growth rate by business type](https://github.com/user-attachments/assets/fe2002af-cb35-4907-ac69-0764aa862e96)
 
 
 - *Lagos:*
