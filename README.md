@@ -22,7 +22,7 @@ This project evaluates the performance and challenges of small businesses in a N
 ## Data Cleaning & Processing
 
 - Excel: Remove duplicates, handle missing values, and normalize data.
-  - [see the cleaned dataset here](https:"C:\Users\Sixtus\Downloads\Analysis_of_Small_Business_Performance_in_an_Urban_Market_-_all_versions_-_False_-_2025-03-27-23-07-13.csv")
+  - [see the cleaned dataset here](https:"C:\Users\Sixtus\Downloads\Analysis_of_Small_Business_Performance_in_an_Urban_Market_-_all_versions_-_False_-_2025-03-27-23-07-13.xlsx")
  
 - SQL: Create tables and queries to filter, aggregate, and sort data.
 - Data Transformation: Convert categorical responses into numerical values where needed for better analysis.
